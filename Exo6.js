@@ -3,7 +3,6 @@ Chiffres=[10,15,32,94,51,27,9,65,34,85];
 Min=Chiffres[0]
 Max=Chiffres[0]
 for (n in Chiffres){
-    console.log(n);
     if (Chiffres[n]<Min){
         Min=Chiffres[n];
     }
