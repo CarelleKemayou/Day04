@@ -1,0 +1,1 @@
+console.log("la moyenne des elements est",moyenne);
